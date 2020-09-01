@@ -37,6 +37,7 @@ v0.0.1
 - Python3.5>
 - Pyrosetta 
 - Tensorflow 1.14 (not Tensorflow 2.0)
+- Tested on Ubuntu 20.04 LTS
 
 # Example usages (for IPD users)
 Type the following commands to activate tensorflow environment with pyrosetta3.
